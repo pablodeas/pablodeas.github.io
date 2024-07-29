@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Pablo Andrade
 
 Olá, tudo bem?
