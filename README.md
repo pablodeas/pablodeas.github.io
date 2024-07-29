@@ -1,14 +1,10 @@
-# pablodeas.github.io
+# Pablo Andrade
 
-Esse é um teste, vamos ver como as coisas vão ficar
+Olá, tudo bem?
+Sou um Desenvolvedor de Software focado em ferramentas de automatização de processos. Seja na Web ou em Programas locais.
 
-## Testando
+---
 
-### Testando também
+## Projetos:
 
-- Mais um teste.
-
-```sql
--- Sim, esse é um teste em SQL
-select banner from v$version;
-```
+[TodoCli](https://github.com/pablodeas/todo_cli "TodoCli")
