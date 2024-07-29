@@ -1,7 +1,14 @@
-# Desenvolvedor - Pablo Andrade
+---
+layout: default
+---
 
-#### Olá, tudo bem?
-#### Sou um Desenvolvedor de Software focado em ferramentas de automatização de processos. Seja na Web ou em Programas locais.
+# Pablo Andrade
+
+Olá, tudo bem?
+
+Sou um Desenvolvedor de Software focado em ferramentas de automatização de processos.
+
+Seja na Web ou em Programas locais.
 
 ---
 
