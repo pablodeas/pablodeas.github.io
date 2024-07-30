@@ -22,5 +22,6 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 ## Projetos:
 
-[TodoCli](https://github.com/pablodeas/todo_cli "TodoCli")
+[TodoCli](https://github.com/pablodeas/todo_cli "Link: TodoCli")
+
 ![cli.git](./src/todo_cli.gif)

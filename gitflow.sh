@@ -1,3 +1,11 @@
 #!/usr/bin/env sh
 
-echo "Funcionando"
+echo ""
+echo "> Digite o commit:"
+read mensagem
+
+git add .
+
+git commit -m "'$mensagem'"
+
+git push -u origin main
