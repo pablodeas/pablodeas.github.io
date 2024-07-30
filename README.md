@@ -27,7 +27,7 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 > Feito em: Django
 
-![ecommerce.gif](ecommerce_stripe.gif)
+![ecommerce.gif](./src/ecommerce_stripe.gif)
 
 ---
 
