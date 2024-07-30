@@ -1,6 +1,6 @@
 Olá, tudo bem?
 
-Meu nome é Pablo, sou Desenvolvedor de Software focado automatização de processos e melhoria contínua.
+Meu nome é Pablo, sou Desenvolvedor de Software focado em automatização de processos e melhoria contínua.
 
 Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 <p>
