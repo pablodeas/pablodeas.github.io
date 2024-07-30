@@ -1,6 +1,6 @@
 Olá, tudo bem?
 
-Meu nome é Pablo, sou Desenvolvedor de Software focado em ferramentas de automatização de processos.
+Meu nome é Pablo, sou Desenvolvedor de Software focado automatização de processos e melhoria contínua.
 
 Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 <p>
@@ -22,12 +22,21 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 ## Projetos:
 
+[DjangoE-Commerce](https://github.com/pablodeas/django_ecommerce_stripe "DjangoE-Commerce")
+> E-Commerce para processar pagamentos utilizando a plataforma Stripe.
+
+> Feito em: Django
+
+![ecommerce.gif](ecommerce_stripe.gif)
+
+---
+
 [WControl](https://github.com/pablodeas/wcontrol_cli "WControl")
 > Programa para linha de comando para registrar e manter controle das finanças.
 
 > Feito em: Python, Shell Script, Docker e PostgreSQL
 
-![wcontrol.git](./src/wcontrol.gif)
+![wcontrol.gif](./src/wcontrol.gif)
 
 ---
 
@@ -36,7 +45,7 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 > Feito em: Python
 
-![sensor.git](./src/sensor.gif)
+![sensor.gif](./src/sensor.gif)
 
 ---
 
@@ -45,4 +54,13 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 > Feito em: Python e SQLite
 
-![cli.git](./src/todo_cli.gif)
+![cli.gif](./src/todo_cli.gif)
+
+---
+
+## Contatos:
+
+[Whatsapp](https://api.whatsapp.com/send?phone=5521966916139 "WhatsApp")
+[E-Mail](mailto:pablodeas@gmail.com "E-Mail")
+[Instagram](https://www.instagram.com/pablodeas "Instagram")
+[Linkedin](https://linkedin.com.br/in/pablodeas "WhatsApp")
