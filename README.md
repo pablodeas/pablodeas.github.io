@@ -34,7 +34,7 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 > Programa para linha de comando para verificar a utilização de CPU, Memória RAM e Temperatura da CPU.
 > Feito em: Python
 
-![sensor.git](https://github.com/pablodeas/pablodeas.github.io/blob/main/src/sensor.gif)
+![sensor.git](./src/sensor.png)
 
 ---
 
