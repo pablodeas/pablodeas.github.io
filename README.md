@@ -22,7 +22,7 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 ## Projetos:
 
-[DjangoE-Commerce](https://github.com/pablodeas/django_ecommerce_stripe "DjangoE-Commerce")
+[Django E-Commerce](https://github.com/pablodeas/django_ecommerce_stripe "DjangoE-Commerce")
 > E-Commerce para processar pagamentos utilizando a plataforma Stripe.
 
 > Feito em: Django
@@ -61,6 +61,13 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 ## Contatos:
 
 [Whatsapp](https://api.whatsapp.com/send?phone=5521966916139 "WhatsApp")
+
 [E-Mail](mailto:pablodeas@gmail.com "E-Mail")
+
 [Instagram](https://www.instagram.com/pablodeas "Instagram")
+
 [Linkedin](https://linkedin.com.br/in/pablodeas "WhatsApp")
+
+<p>
+	<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1" href="https://api.whatsapp.com/send?phone=5521966916139"/>
+</p>
