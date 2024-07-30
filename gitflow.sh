@@ -3,6 +3,7 @@
 echo ""
 echo "> Digite o commit:"
 read mensagem
+echo ""
 
 git add .
 
