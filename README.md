@@ -22,14 +22,14 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 ## Projetos:
 
-[Link: WControl](https://github.com/pablodeas/wcontrol_cli "WControl")
+[WControl](https://github.com/pablodeas/wcontrol_cli "WControl")
 > Programa para linha de comando para registrar e manter controle das finanças.
 > Feito em: Python, Shell Script, Docker e PostgreSQL
 
 ![wcontrol.git](./src/wcontrol.gif)
 ---
 
-[Link: TodoCli](https://github.com/pablodeas/todo_cli "TodoCli")
+[TodoCli](https://github.com/pablodeas/todo_cli "TodoCli")
 > Programa para linha de comando para registrar coisas a fazer.
 > Feito em: Python e SQLite
 
