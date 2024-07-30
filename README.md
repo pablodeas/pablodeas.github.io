@@ -60,16 +60,18 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 ## Contatos:
 
-[Whatsapp](https://api.whatsapp.com/send?phone=5521966916139 "WhatsApp")
-
-[E-Mail](mailto:pablodeas@gmail.com "E-Mail")
-
-[Instagram](https://www.instagram.com/pablodeas "Instagram")
-
-[Linkedin](https://linkedin.com.br/in/pablodeas "WhatsApp")
-
 <p>
 	<a href="https://api.whatsapp.com/send?phone=5521966916139" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1">
 	</a>
+	<a href="mailto:pablodeas@gmail.com" target="_blank" rel="noopener noreferrer">
+	  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+	</a>
+	<a href="https://www.instagram.com/pablodeas" target="_blank" rel="noopener noreferrer">
+	  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+	</a>
+	<a href="https://linkedin.com.br/in/pablodeas" target="_blank" rel="noopener noreferrer">
+	  <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+	</a>
+	
 </p>
