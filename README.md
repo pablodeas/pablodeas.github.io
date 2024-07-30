@@ -69,5 +69,7 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 [Linkedin](https://linkedin.com.br/in/pablodeas "WhatsApp")
 
 <p>
-	<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1" href="https://api.whatsapp.com/send?phone=5521966916139"/>
+	<a href="https://api.whatsapp.com/send?phone=5521966916139" target="_blank" rel="noopener noreferrer">
+	  <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1">
+	</a>
 </p>
