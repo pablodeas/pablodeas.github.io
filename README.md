@@ -73,5 +73,7 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 	<a href="https://linkedin.com.br/in/pablodeas" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 	</a>
-	
+	<a href="https://pabo-dev.netlify.app/" target="_blank" rel="noopener noreferrer">
+		<img width="48" height="48" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-blog-digital-marketing-flatart-icons-lineal-color-flatarticons.png" alt="external-blog-digital-marketing-flatart-icons-lineal-color-flatarticons"/>
+	</a>
 </p>
