@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+git status
+
 echo ""
 echo "> Digite o commit:"
 read mensagem

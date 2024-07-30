@@ -27,6 +27,15 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 > Feito em: Python, Shell Script, Docker e PostgreSQL
 
 ![wcontrol.git](./src/wcontrol.gif)
+
+---
+
+[SensorsPy](https://github.com/pablodeas/hardware-sensors "SensorsPy")
+> Programa para linha de comando para verificar a utilização de CPU, Memória RAM e Temperatura da CPU.
+> Feito em: Python
+
+![sensor.git](./src/hardware_sensor.gif)
+
 ---
 
 [TodoCli](https://github.com/pablodeas/todo_cli "TodoCli")
@@ -34,5 +43,3 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 > Feito em: Python e SQLite
 
 ![cli.git](./src/todo_cli.gif)
----
-
