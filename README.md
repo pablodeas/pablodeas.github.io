@@ -2,8 +2,6 @@ Olá, tudo bem?
 
 Meu nome é Pablo, sou Desenvolvedor de Software focado em ferramentas de automatização de processos.
 
-Seja na Web ou em Programas locais.
-
 Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 <p>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" />
@@ -14,7 +12,10 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-plain-wordmark.svg" width="50" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="50" />
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50"/>
 </p>
 
 ---
