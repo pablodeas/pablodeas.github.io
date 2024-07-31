@@ -20,7 +20,7 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 ---
 
-## Projetos:
+## Alguns Projetos:
 
 [Django E-Commerce](https://github.com/pablodeas/django_ecommerce_stripe "DjangoE-Commerce")
 > E-Commerce para processar pagamentos utilizando a plataforma Stripe.
@@ -31,101 +31,8 @@ Para os entendedores, eu desenvolvo com as seguintes ferramentas:
 
 ---
 
-[Backup_with_Zsh](https://github.com/pablodeas/backup_with_zsh "Backup_with_Zsh")
-> Programa feito para automatizar a criação de backups e upload para a cloud.
-
-> Feito em: Shell Script, Zsh e RClone
-
-```bash
-#!/usr/bin/env zsh
-
-# Script Name:  backup.zsh
-# Author:       Pablo Andrade
-# Created:      28/11/2023
-# Version:      1.2
-
-# To decompress
-#tar -xzvf $bkp_file
-
-# Debugging ON/OFF
-#set -x
-
-#script_path="$(dirname "${BASH_SOURCE[0]}")"
-
-# Variables
-project_directory=""
-source "$project_directory/config.sh"
-
-# Remove Last Backup File
-function remove_last () {
-	echo " --- "
-	echo "-> Removing last Backup File!..."
-	echo " --- "
-	/usr/bin/rm -f $bkp_last
-	
-	if [ $? -eq 0 ]; then
-		echo $msg_sucess
-	else
-		echo $msg_error
-	fi
-}
-
-# Remove Last Log Files
-function remove_logs () {
-  echo " --- "
-  echo "-> Removing last Log files..."
-  echo " --- "
-  find $project_log -type f -newermt $data -exec rm {} +
-
-  if [ $? -eq 0 ]; then
-    echo $msg_sucess
-  else
-    echo $msg_error
-  fi
-}
-
-# Backup
-function exec_bkp () {
-	echo " --- "
-	echo "-> Starting Backup..."
-	echo " --- "
-	rsync -av --progress --partial --append-verify $main_dir $bkp_dir &> $project_log/rsync_$data.log
-
-	if [ $? -eq 0 ]; then
-		echo $msg_sucess
-	else
-		echo $msg_error
-	fi
-}
-
-# Compress
-function exec_compact () {
-    echo " --- "
-    echo "-> Starting Compression..."
-    echo " --- "
-    tar --remove-files -czvf $bkp_file * &> $project_log/tar_$data.log
-
-    if grep -q "File shrank by" $project_log/tar_$data.log; then
-        echo "-> Alert: The file was compressed Successfully, but there was an alert."
-    elif [ $? -eq 0 ]; then
-        echo $msg_sucess
-    else
-        echo $msg_error
-    fi
-}
-
-# Execution
-remove_last
-remove_logs
-exec_bkp
-cd $bkp_dir
-exec_compact
-```
-
----
-
 [WControl](https://github.com/pablodeas/wcontrol_cli "WControl")
-> Programa para linha de comando para registrar e manter controle das finanças.
+> Programa em linha de comando para registrar e manter controle financeiro.
 
 > Feito em: Python, Shell Script, Docker e PostgreSQL
 
@@ -134,7 +41,7 @@ exec_compact
 ---
 
 [SensorsPy](https://github.com/pablodeas/hardware-sensors "SensorsPy")
-> Programa para linha de comando para verificar a utilização de CPU, Memória RAM e Temperatura da CPU.
+> Monitor em linha de comando para verificar a utilização de CPU, Memória RAM e Temperatura da CPU.
 
 > Feito em: Python
 
@@ -143,7 +50,7 @@ exec_compact
 ---
 
 [TodoCli](https://github.com/pablodeas/todo_cli "TodoCli")
-> Programa para linha de comando para registrar coisas a fazer.
+> Programa em linha de comando para registrar tarefas.
 
 > Feito em: Python e SQLite
 
@@ -151,7 +58,28 @@ exec_compact
 
 ---
 
-## Contatos:
+[Backup_with_Zsh](https://github.com/pablodeas/backup_with_zsh "Backup_with_Zsh")
+> Programa feito para automatizar a criação de backups e fazer upload para a cloud.
+
+> Feito em: Shell Script, Zsh e RClone
+
+---
+
+[Shell_Go](https://github.com/pablodeas/shell-go "Shell_Go")
+> Uma linha de comando interativa.
+
+> Feito em: Golang
+
+---
+
+[FastPass](https://github.com/pablodeas/fast_pass "FastPass")
+> Gerador de Senha aleatória.
+
+> Feito em: Golang
+
+---
+
+## Me Encontre em:
 
 <p>
 	<a href="https://api.whatsapp.com/send?phone=5521966916139" target="_blank" rel="noopener noreferrer">
@@ -173,3 +101,9 @@ exec_compact
 		<img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 	</a>
 </p>
+
+---
+
+<footer>
+	<p>© 2024 Made By - <a href="https://github.com/pablodeas" target="_blank" rel="noopener noreferrer">Pablo Andrade</a></p>
+</footer>

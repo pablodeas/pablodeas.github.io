@@ -1,0 +1,4 @@
+.env
+.jekyll-cache
+.jekyll-metadata
+Gemfile.lock
