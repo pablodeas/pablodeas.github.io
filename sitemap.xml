@@ -1,0 +1,2492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/issues</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/pulls</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/security</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/blob/main/.gitignore</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/blob/main/Gemfile</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/blob/main/README.md</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/blob/main/_config.yml</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/blob/main/gitflow.sh</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/releases</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/caches</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172623061</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172565436</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172523708</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165286330</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165059136</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155154256</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155075299</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155047194</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155006718</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154961177</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154910051</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154791728</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154756371</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154719010</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154691955</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154588519</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154389990</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153914571</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153865979</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153814462</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153773652</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153702950</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153654208</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153644765</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153631561</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/issues</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/pulls</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/actions</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/security</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/blob/main/README.md</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/blob/main/db.sqlite3</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/blob/main/manage.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/blob/main/requirements.txt</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/releases</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/LICENSE</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/issues</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/pulls</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/actions</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/security</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/.gitignore</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/README.md</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/app.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/dados.json</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/docker-compose.yml</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/querie.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/requirements.txt</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/blob/main/wcontrol.sh</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/releases</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/issues</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/pulls</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/actions</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/security</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/blob/main/.gitignore</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/blob/main/README.md</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/blob/main/app.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/blob/main/cli_app.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/blob/main/core.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/blob/main/gui_app.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/blob/main/requirements.txt</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/releases</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/issues</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/pulls</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/actions</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/security</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/blob/main/.gitignore</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/blob/main/README.md</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/blob/main/requirements.txt</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/blob/main/test.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/blob/main/todo.db</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/blob/main/todo.py</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/blob/main/todo.sh</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/releases</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/issues</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/pulls</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/actions</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/security</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/blob/main/.gitignore</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/blob/main/README.md</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/blob/main/do_backup.zsh</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/blob/main/do_upload.zsh</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/releases</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/blob/main/LICENSE</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/issues</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/pulls</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/actions</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/security</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/blob/main/.gitignore</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/blob/main/README.md</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/blob/main/app.go</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/blob/main/go.mod</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/releases</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/issues</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/pulls</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/actions</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/security</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/blob/master/README.md</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/blob/master/generator</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/blob/master/generator.go</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/blob/master/go.mod</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/blob/master/go.sum</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/releases</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels?sort=name-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels?sort=name-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels?sort=count-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels?sort=count-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/bug</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/documentation</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/duplicate</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/enhancement</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/good%20first%20issue</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/help%20wanted</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/invalid</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/question</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/labels/wontfix</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172623061/job/28135477311</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172623061/job/28135491568</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172623061/job/28135491564</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172623061/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/9c976dc79e6399ced31cf558ad133d9d3d3a2f39</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172565436/job/28135337928</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172565436/job/28135348599</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172565436/job/28135348592</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172565436/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/d91135e0e399f87e61d3b7bfe27e2cbe0fdf7f12</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172523708/job/28135231560</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172523708/job/28135244120</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172523708/job/28135244123</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10172523708/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/0391172d355aaae12a5960e135040a2dacc9be00</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165286330/job/28112732161</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165286330/job/28112759316</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165286330/job/28112759311</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165286330/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/03b2336882711aeb10b0463edd592bdc7e02055a</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165059136/job/28111967703</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165059136/job/28111991113</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165059136/job/28111991119</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10165059136/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/7c060800c12ee911d6616563c434bf6e63689347</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155154256/job/28081443889</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155154256/job/28081453793</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155154256/job/28081453794</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155154256/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/59aa0f61f655b9724e076509349c7a1d4cf68c4b</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155075299/job/28081229734</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155075299/job/28081240867</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155075299/job/28081240865</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155075299/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/fe5fc8e8a0db0b160116ccb81d44f14eb9b47fa6</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155047194/job/28081155712</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155047194/job/28081166109</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155047194/job/28081166120</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155047194/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/c933dfbefb6c9553eaf9f5dddef6b6b6cb4fbc75</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155006718/job/28081046508</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155006718/job/28081058377</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155006718/job/28081058379</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10155006718/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/c0b2a71e399cf9258fe5fb8b27afe5a30be918a3</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154961177/job/28080925959</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154961177/job/28080935306</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154961177/job/28080935305</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154961177/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/6e0efee4d9614f7f4a27ad2b463b6fb927cb18a1</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154910051/job/28080803175</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154910051/job/28080814016</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154910051/job/28080814005</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154910051/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/7287e328c7dccc3a83bae5d31d0a814e8eec48e2</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154791728/job/28080481614</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154791728/job/28080493657</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154791728/job/28080493658</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154791728/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/1380fb5787ea7f518466e2ae0cd6ebb3ce265cfb</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154756371/job/28080398968</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154756371/job/28080409646</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154756371/job/28080409630</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154756371/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/462ba4452155bf9ad00b7c7c3af331c71151937b</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154719010/job/28080297847</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154719010/job/28080306156</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154719010/job/28080306154</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154719010/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/f26dc6e67f8fb1573e0fa1ca63b9d9db7f09cd34</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154691955/job/28080221685</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154691955/job/28080231487</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154691955/job/28080231491</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154691955/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/bfcea5e3ee5f5f4730aa718717e7cf96ad8300c4</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154588519/job/28079932847</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154588519/job/28079944462</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154588519/job/28079944465</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154588519/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/9e4a3dcfe0b82bc58774d1303f31c1157415daf7</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154389990/job/28079416991</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154389990/job/28079429931</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154389990/job/28079429929</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10154389990/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/a01e4f998e06b88205294469ad0ac14826b00c2d</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153914571/job/28078153838</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153914571/job/28078167253</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153914571/job/28078167250</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153914571/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/9a7013216d0a5b92ac91edc43c4270780afc528e</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153865979/job/28078016867</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153865979/job/28078026423</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153865979/job/28078026421</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153865979/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/42b218a2ef649f521c907a984173fb8475be826b</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153814462/job/28077869514</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153814462/job/28077881222</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153814462/job/28077881221</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153814462/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/459bb3e51136bca672a51ae8338a0c4fdda51d20</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153773652/job/28077751578</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153773652/job/28077760832</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153773652/job/28077760826</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153773652/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/c4020c1f06bf4bdc043decaf0d21b50cb79d9d0b</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153702950/job/28077541929</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153702950/job/28077553183</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153702950/job/28077553187</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153702950/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/2e6062da9e0087ef6845092ac9a8c5ac04e3ddeb</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153654208/job/28077394917</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153654208/job/28077403760</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153654208/job/28077403766</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153654208/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/bed85a41dbc4e67ebbb7c116c2c4f94c87bd61df</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153644765/job/28077363663</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153644765/job/28077371879</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153644765/job/28077371880</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153644765/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/7e4b7d214b6cdad8f730fa142542d4ae1b2bfd9b</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153631561/job/28077321780</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153631561/job/28077328631</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153631561/job/28077328630</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153631561/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/6dafbeac0e56a3dad82fc31f0aa509ca9df8925f</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153573587</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153553017</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153473625</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10150776600</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10144662377</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/bf82ac086980cb1d93e49ca82c382e2b3a0b844c</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153573587/job/28077150344</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153573587/job/28077158385</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153573587/job/28077158386</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153573587/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153553017/job/28077096222</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153553017/job/28077103927</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153553017/job/28077103928</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153553017/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/f07905093d5f5c7196694e0bd3d95838418b41ed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153473625/job/28076867598</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153473625/job/28076876393</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153473625/job/28076876389</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10153473625/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/fc2852480c38da0ab86941c1a733bb9f63c9b2e0</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10150776600/job/28068625953</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10150776600/job/28068642065</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10150776600/job/28068642069</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10150776600/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/2d97a39c229fbe266a7eebabb5211e30b25d883a</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10144662377/job/28048611295</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10144662377/job/28048629038</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10144662377/job/28048629088</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/actions/runs/10144662377/usage</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/pablodeas.github.io/commit/dbf9e1425def1df26a1942b031692d3a4a152574</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels?sort=name-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels?sort=name-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels?sort=count-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels?sort=count-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/bug</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/documentation</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/duplicate</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/enhancement</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/good%20first%20issue</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/help%20wanted</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/invalid</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/question</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/labels/wontfix</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels?sort=name-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels?sort=name-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels?sort=count-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels?sort=count-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/bug</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/documentation</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/duplicate</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/enhancement</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/good%20first%20issue</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/help%20wanted</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/invalid</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/question</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/labels/wontfix</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/wcontrol_cli/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels?sort=name-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels?sort=name-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels?sort=count-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels?sort=count-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/bug</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/documentation</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/duplicate</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/enhancement</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/good%20first%20issue</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/help%20wanted</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/invalid</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/question</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/labels/wontfix</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/hardware-sensors/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels?sort=name-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels?sort=name-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels?sort=count-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels?sort=count-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels/bug</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels/documentation</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels/enhancement</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels/good%20first%20issue</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels/help%20wanted</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels/invalid</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels/question</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/labels/wontfix</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/todo_cli/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels?sort=name-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels?sort=name-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels?sort=count-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels?sort=count-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/bug</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/documentation</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/duplicate</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/enhancement</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/good%20first%20issue</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/help%20wanted</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/invalid</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/question</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/labels/wontfix</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/backup_with_zsh/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels?sort=name-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels?sort=name-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels?sort=count-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels?sort=count-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/bug</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/documentation</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/duplicate</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/enhancement</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/good%20first%20issue</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/help%20wanted</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/invalid</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/question</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/labels/wontfix</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/shell-go/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels?sort=name-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels?sort=name-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels?sort=count-desc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels?sort=count-asc</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels/bug</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels/documentation</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels/duplicate</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels/enhancement</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels/good%20first%20issue</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels/invalid</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels/question</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/labels/wontfix</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/fast_pass/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/pablodeas/django_ecommerce_stripe/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-07-31T21:52:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
