@@ -1,3 +1,7 @@
+<head>
+	<meta name="google-site-verification" content="Xn0i4yWSmCvO0zrKUPJNaUiXd5Nl_v00Rd6Tyrl9nJc" />
+</head>
+
 Olá, tudo bem?
 
 Meu nome é Pablo, sou Desenvolvedor de Software focado em automatização de processos e melhoria contínua.
