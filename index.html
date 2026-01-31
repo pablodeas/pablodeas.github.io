@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pablo Andrade - Database Administrator & Developer</title>
+    <style>
+        :root {
+            --bg-color: #0a0a0a;
+            --text-color: #e4e4e7;
+            --text-muted: #a1a1aa;
+            --accent-color: #3b82f6;
+            --border-color: #27272a;
+            --hover-bg: #18181b;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 80px 24px 120px;
+        }
+
+        nav {
+            display: flex;
+            gap: 24px;
+            margin-bottom: 60px;
+            font-size: 14px;
+        }
+
+        nav a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        nav a:hover,
+        nav a.active {
+            color: var(--text-color);
+        }
+
+        .profile-section {
+            margin-bottom: 48px;
+        }
+
+        .profile-image {
+            width: 120px;
+            height: 120px;
+            border-radius: 12px;
+            margin-bottom: 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            font-weight: 600;
+            color: white;
+        }
+
+        h1 {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .title {
+            color: var(--text-muted);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .bio {
+            font-size: 15px;
+            line-height: 1.7;
+            margin-bottom: 20px;
+        }
+
+        .bio strong {
+            color: var(--text-color);
+            font-weight: 600;
+        }
+
+        .location {
+            color: var(--text-muted);
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+
+        .tech-stack {
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
+        h2 {
+            font-size: 16px;
+            font-weight: 600;
+            margin-top: 64px;
+            margin-bottom: 24px;
+        }
+
+        .project-grid {
+            display: grid;
+            gap: 12px;
+            margin-bottom: 48px;
+        }
+
+        .project-card {
+            display: block;
+            padding: 20px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .project-card:hover {
+            background-color: var(--hover-bg);
+            border-color: var(--accent-color);
+        }
+
+        .project-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+
+        .project-title {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text-color);
+        }
+
+        .project-stars {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .project-description {
+            font-size: 14px;
+            color: var(--text-muted);
+            line-height: 1.6;
+        }
+
+        .connect-section {
+            display: grid;
+            gap: 12px;
+        }
+
+        .connect-link {
+            display: flex;
+            align-items: center;
+            padding: 16px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.2s;
+        }
+
+        .connect-link:hover {
+            background-color: var(--hover-bg);
+            border-color: var(--accent-color);
+        }
+
+        .icon-wrapper {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 16px;
+            font-size: 20px;
+        }
+
+        .connect-content {
+            flex: 1;
+        }
+
+        .connect-title {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 2px;
+        }
+
+        .connect-description {
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .star-icon {
+            width: 14px;
+            height: 14px;
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 40px 20px 80px;
+            }
+
+            nav {
+                margin-bottom: 40px;
+            }
+
+            .profile-image {
+                width: 100px;
+                height: 100px;
+                font-size: 40px;
+            }
+
+            h2 {
+                margin-top: 48px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="#" class="active">Home</a>
+            <a href="#about">About</a>
+        </nav>
+
+        <div class="profile-section">
+            <div class="profile-image">PA</div>
+            <h1>Pablo Andrade</h1>
+            <p class="title">Database Administrator & Developer</p>
+            <p class="bio">
+                Hey! I'm <strong>Pablo Andrade</strong>, a Database Administrator and Full Stack Developer with 3+ years of experience managing critical environments and developing robust solutions. I specialize in multi-cloud database administration and automation.
+            </p>
+            <p class="location">Based in <strong>Vila Velha, Espírito Santo, Brazil</strong></p>
+            <p class="tech-stack">I work with <strong>Oracle</strong>, <strong>SQL Server</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong>, and <strong>Python</strong></p>
+        </div>
+
+        <h2>Featured Projects</h2>
+        <div class="project-grid">
+            <a href="https://github.com/pablodeas/oracle-workspace" target="_blank" class="project-card">
+                <div class="project-header">
+                    <div class="project-title">oracle-workspace</div>
+                </div>
+                <div class="project-description">My testing area in Oracle Database with Oracle Linux 7</div>
+            </a>
+
+            <a href="https://github.com/pablodeas/shell-go" target="_blank" class="project-card">
+                <div class="project-header">
+                    <div class="project-title">shell-go</div>
+                </div>
+                <div class="project-description">An interactive shell made in Golang</div>
+            </a>
+
+            <a href="https://github.com/pablodeas/backup_with_zsh" target="_blank" class="project-card">
+                <div class="project-header">
+                    <div class="project-title">backup_with_zsh</div>
+                </div>
+                <div class="project-description">Backup and upload automation using Shell Script and RClone</div>
+            </a>
+
+            <a href="https://github.com/pablodeas/pablo-dev-blog" target="_blank" class="project-card">
+                <div class="project-header">
+                    <div class="project-title">pablo-dev-blog</div>
+                </div>
+                <div class="project-description">My personal tech blog built with Hugo</div>
+            </a>
+
+            <a href="https://github.com/pablodeas/todo_app" target="_blank" class="project-card">
+                <div class="project-header">
+                    <div class="project-title">todo_app</div>
+                </div>
+                <div class="project-description">A To-Do List app made with Django Framework</div>
+            </a>
+
+            <a href="https://github.com/pablodeas/todo_cli" target="_blank" class="project-card">
+                <div class="project-header">
+                    <div class="project-title">todo_cli</div>
+                </div>
+                <div class="project-description">A Todo CLI app designed for fast usage</div>
+            </a>
+        </div>
+
+        <h2>Connect With Me</h2>
+        <div class="connect-section">
+            <a href="https://github.com/pablodeas" target="_blank" class="connect-link">
+                <div class="icon-wrapper">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none">
+                        <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+                    </svg>
+                </div>
+                <div class="connect-content">
+                    <div class="connect-title">GitHub</div>
+                    <div class="connect-description">@pablodeas - Check out my open source projects</div>
+                </div>
+            </a>
+
+            <a href="https://www.linkedin.com/in/pablodeas" target="_blank" class="connect-link">
+                <div class="icon-wrapper">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none">
+                        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+                        <rect x="2" y="9" width="4" height="12"></rect>
+                        <circle cx="4" cy="4" r="2"></circle>
+                    </svg>
+                </div>
+                <div class="connect-content">
+                    <div class="connect-title">LinkedIn</div>
+                    <div class="connect-description">Professional profile and networking</div>
+                </div>
+            </a>
+
+            <a href="https://pabu-dev-blog.netlify.app/" target="_blank" class="connect-link">
+                <div class="icon-wrapper">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <div class="connect-content">
+                    <div class="connect-title">Tech Blog</div>
+                    <div class="connect-description">Articles about databases, automation and development</div>
+                </div>
+            </a>
+
+            <a href="https://autor-pablo.netlify.app/" target="_blank" class="connect-link">
+                <div class="icon-wrapper">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                        <polyline points="14 2 14 8 20 8"></polyline>
+                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                        <polyline points="10 9 9 9 8 9"></polyline>
+                    </svg>
+                </div>
+                <div class="connect-content">
+                    <div class="connect-title">Writer's Blog</div>
+                    <div class="connect-description">Short stories, poems and creative writing</div>
+                </div>
+            </a>
+
+            <a href="mailto:pablodeas@gmail.com" class="connect-link">
+                <div class="icon-wrapper">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none">
+                        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                        <polyline points="22,6 12,13 2,6"></polyline>
+                    </svg>
+                </div>
+                <div class="connect-content">
+                    <div class="connect-title">Email</div>
+                    <div class="connect-description">pablodeas@gmail.com - Professional inquiries</div>
+                </div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
