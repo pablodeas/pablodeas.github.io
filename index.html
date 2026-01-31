@@ -56,18 +56,11 @@
             margin-bottom: 48px;
         }
 
-        .profile-image {
-            width: 120px;
-            height: 120px;
+        .profile-image img {
+            width: 20%;
+            height: 10%;
+            object-fit: cover;
             border-radius: 12px;
-            margin-bottom: 24px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 48px;
-            font-weight: 600;
-            color: white;
         }
 
         h1 {
@@ -234,24 +227,34 @@
 </head>
 <body>
     <div class="container">
+        <!--
         <nav>
-            <a href="#" class="active">Home</a>
+            <a href="https://pablodeas.github.io/" class="active">Home</a>
             <a href="#about">About</a>
         </nav>
-
+        -->
         <div class="profile-section">
-            <div class="profile-image">PA</div>
+            <div class="profile-image">
+                <img src="src/profile_ia.png" alt="Pablo Andrade">
+            </div>
             <h1>Pablo Andrade</h1>
             <p class="title">Database Administrator & Developer</p>
             <p class="bio">
                 Hey! I'm <strong>Pablo Andrade</strong>, a Database Administrator and Full Stack Developer with 3+ years of experience managing critical environments and developing robust solutions. I specialize in multi-cloud database administration and automation.
             </p>
             <p class="location">Based in <strong>Vila Velha, Espírito Santo, Brazil</strong></p>
-            <p class="tech-stack">I work with <strong>Oracle</strong>, <strong>SQL Server</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong>, and <strong>Python</strong></p>
+            <p class="tech-stack">I work with <strong>Python</strong>, <strong>Golang</strong>, <strong>Oracle</strong>, <strong>SQL Server</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong>, and <strong>Shell Script</strong></p>
         </div>
 
         <h2>Featured Projects</h2>
         <div class="project-grid">
+            <a href="https://github.com/pablodeas/reminder" target="_blank" class="project-card">
+                <div class="project-header">
+                    <div class="project-title">reminder</div>
+                </div>
+                <div class="project-description">Software designed to record notes and create reminder notifications.</div>
+            </a>
+            
             <a href="https://github.com/pablodeas/oracle-workspace" target="_blank" class="project-card">
                 <div class="project-header">
                     <div class="project-title">oracle-workspace</div>
@@ -285,13 +288,6 @@
                     <div class="project-title">todo_app</div>
                 </div>
                 <div class="project-description">A To-Do List app made with Django Framework</div>
-            </a>
-
-            <a href="https://github.com/pablodeas/todo_cli" target="_blank" class="project-card">
-                <div class="project-header">
-                    <div class="project-title">todo_cli</div>
-                </div>
-                <div class="project-description">A Todo CLI app designed for fast usage</div>
             </a>
         </div>
 
