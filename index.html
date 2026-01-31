@@ -56,11 +56,22 @@
             margin-bottom: 48px;
         }
 
-        .profile-image img {
-            width: 20%;
-            height: 10%;
-            object-fit: cover;
+        .profile-image {
+            width: 120px;
+            height: 120px;
             border-radius: 12px;
+            margin-bottom: 24px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .profile-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
         }
 
         h1 {
@@ -214,9 +225,8 @@
             }
 
             .profile-image {
-                width: 100px;
-                height: 100px;
-                font-size: 40px;
+                width: 96px;
+                height: 96px;
             }
 
             h2 {
@@ -229,7 +239,7 @@
     <div class="container">
         <!--
         <nav>
-            <a href="https://pablodeas.github.io/" class="active">Home</a>
+            <a href="#" class="active">Home</a>
             <a href="#about">About</a>
         </nav>
         -->
@@ -243,7 +253,7 @@
                 Hey! I'm <strong>Pablo Andrade</strong>, a Database Administrator and Full Stack Developer with 3+ years of experience managing critical environments and developing robust solutions. I specialize in multi-cloud database administration and automation.
             </p>
             <p class="location">Based in <strong>Vila Velha, Espírito Santo, Brazil</strong></p>
-            <p class="tech-stack">I work with <strong>Python</strong>, <strong>Golang</strong>, <strong>Oracle</strong>, <strong>SQL Server</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong>, and <strong>Shell Script</strong></p>
+            <p class="tech-stack">I work with <strong>Oracle</strong>, <strong>SQL Server</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong>, and <strong>Python</strong></p>
         </div>
 
         <h2>Featured Projects</h2>
@@ -254,7 +264,7 @@
                 </div>
                 <div class="project-description">Software designed to record notes and create reminder notifications.</div>
             </a>
-            
+
             <a href="https://github.com/pablodeas/oracle-workspace" target="_blank" class="project-card">
                 <div class="project-header">
                     <div class="project-title">oracle-workspace</div>
@@ -348,7 +358,7 @@
                 </div>
             </a>
 
-            <a href="mailto:pablodeas@gmail.com" class="connect-link">
+            <a href="/cdn-cgi/l/email-protection#89f9e8ebe5e6edece8fac9eee4e8e0e5a7eae6e4" class="connect-link">
                 <div class="icon-wrapper">
                     <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none">
                         <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
@@ -357,10 +367,4 @@
                 </div>
                 <div class="connect-content">
                     <div class="connect-title">Email</div>
-                    <div class="connect-description">pablodeas@gmail.com - Professional inquiries</div>
-                </div>
-            </a>
-        </div>
-    </div>
-</body>
-</html>
+                    <div class="connect-description"><span class="__cf_email__" data-cfemail="4a3a2b2826252e2f2b390a2d272b232664292527">[email&#
