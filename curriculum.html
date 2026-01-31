@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            line-height: 1.4;
+            color: #000;
+            max-width: 850px;
+            margin: 40px auto;
+            padding: 0 40px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #000;
+            padding-bottom: 10px;
+        }
+        
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+        
+        .contact-info {
+            font-size: 11px;
+            margin-top: 5px;
+        }
+        
+        h2 {
+            font-size: 12px;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-top: 15px;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #000;
+            padding-bottom: 2px;
+        }
+        
+        .section {
+            margin-bottom: 15px;
+        }
+        
+        .entry {
+            margin-bottom: 12px;
+        }
+        
+        .entry-header {
+            display: flex;
+            justify-content: space-between;
+            font-weight: bold;
+            font-size: 11px;
+            margin-bottom: 2px;
+        }
+        
+        .entry-subheader {
+            display: flex;
+            justify-content: space-between;
+            font-style: italic;
+            font-size: 11px;
+            margin-bottom: 4px;
+        }
+        
+        .description {
+            font-size: 11px;
+            margin-left: 15px;
+        }
+        
+        .description li {
+            margin-bottom: 3px;
+            list-style-position: outside;
+        }
+        
+        .summary {
+            font-size: 11px;
+            text-align: justify;
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+        
+        .skills {
+            font-size: 11px;
+            line-height: 1.6;
+        }
+        
+        .skills-label {
+            font-weight: bold;
+            display: inline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pablo Andrade</h1>
+        <div class="contact-info">
+            Vila Velha, Espírito Santo, Brazil | P: +55 21 96691-6139 | pablodeas@gmail.com | linkedin.com/in/pablodeas
+        </div>
+    </header>
+
+    <div class="section">
+        <h2>Summary</h2>
+        <p class="summary">
+            Database Administrator (DBA) and Full Stack Developer with over 3+ years of experience managing critical environments and developing robust solutions for companies in various sectors. Proven track record of delivering results, including performance optimization of up to 98% and reduction of backup and restore time by 80% through automation. Expertise in multi-cloud and hybrid administration of Oracle, SQL Server, PostgreSQL, and MySQL databases. Currently pursuing a Master's degree in Computer Science, combining strategic business vision with in-depth technical knowledge to generate real value for organizations.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        
+        <div class="entry">
+            <div class="entry-header">
+                <span>DESCOMPLICA FACULDADE DIGITAL</span>
+                <span>Brazil</span>
+            </div>
+            <div class="entry-subheader">
+                <span>Master's Degree in Computer Science</span>
+                <span>Jan 2022 - Apr 2026</span>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="section">
+        <h2>Work Experience</h2>
+        
+        <div class="entry">
+            <div class="entry-header">
+                <span>BANCO BV</span>
+                <span>São Paulo, Brazil</span>
+            </div>
+            <div class="entry-subheader">
+                <span>Database Administrator</span>
+                <span>Jul 2024 - Present</span>
+            </div>
+            <ul class="description">
+                <li>Managed high-volume production database environments, ensuring maximum availability and 24/7 uptime for critical financial services using tools like Grafana and Datadog</li>
+                <li>Developed advanced automation scripts using Python, T-SQL, and PL/SQL to streamline user management, CI/CD script deployment, and predictive monitoring</li>
+                <li>Proactively monitored system health and implemented failure prevention strategies to mitigate downtime risk</li>
+                <li>Executed security patching and vulnerability remediation to maintain rigorous compliance standards</li>
+            </ul>
+        </div>
+
+        <div class="entry">
+            <div class="entry-header">
+                <span>SQLTECH CONSULTORIA</span>
+                <span>São Paulo, Brazil</span>
+            </div>
+            <div class="entry-subheader">
+                <span>Database Administrator (Allocated at BancoBV)</span>
+                <span>Jul 2024 - Present</span>
+            </div>
+            <ul class="description">
+                <li>Managed high-volume production database environments, ensuring maximum availability and 24/7 uptime for critical financial services</li>
+                <li>Developed advanced automation scripts using Python, T-SQL, and PL/SQL to streamline user management, CI/CD script deployment, and predictive monitoring</li>
+                <li>Executed security patching and vulnerability remediation to maintain rigorous compliance standards</li>
+            </ul>
+        </div>
+
+        <div class="entry">
+            <div class="entry-header">
+                <span>CODE N'APP</span>
+                <span>Vitória, Espírito Santo, Brazil</span>
+            </div>
+            <div class="entry-subheader">
+                <span>Mid-level SQL Server Developer</span>
+                <span>Oct 2023 - Mar 2024</span>
+            </div>
+            <ul class="description">
+                <li>Architected advanced T-SQL solutions, including high-performance Stored Procedures, Functions, and Database APIs, prioritized for horizontal scalability</li>
+                <li>Engineered complex data models for hierarchical structures, optimizing processing efficiency for large-scale datasets</li>
+                <li>Automated ETL pipelines and dynamic data integration processes, significantly reducing manual overhead and improving data integrity</li>
+                <li>Collaborated in Agile/DevOps workflows using Git for version control and ensuring high-quality technical deliveries</li>
+            </ul>
+        </div>
+
+        <div class="entry">
+            <div class="entry-header">
+                <span>GLOBALSYS</span>
+                <span>Vila Velha, Espírito Santo, Brazil</span>
+            </div>
+            <div class="entry-subheader">
+                <span>Database Administrator</span>
+                <span>Jan 2023 - Oct 2023</span>
+            </div>
+            <ul class="description">
+                <li>Provided specialized administration for Multicloud/Hybrid environments (Oracle, SQL Server, MySQL, and PostgreSQL)</li>
+                <li>Conducted proactive Performance Tuning and health monitoring via Zabbix, identifying and resolving hardware/software bottlenecks</li>
+                <li>Managed end-to-end Backup & Recovery strategies, environment refreshes, and security compliance (Identity and Access Management)</li>
+                <li>Ensured strict adherence to SLAs by managing critical incidents and maintaining high service availability</li>
+            </ul>
+        </div>
+
+        <div class="entry">
+            <div class="entry-header">
+                <span>ORGANIZAÇÃO NACIONAL DE ACREDITAÇÃO - ONA</span>
+                <span>Brazil</span>
+            </div>
+            <div class="entry-subheader">
+                <span>Web Developer</span>
+                <span>Dec 2022 - May 2023</span>
+            </div>
+            <ul class="description">
+                <li>Developed effective methods for critical bug fixes (hotfix) and implemented long-term definitive solutions to ensure system stability</li>
+                <li>Conducted technical analysis, modification and enhancement of business rules, ensuring software alignment with company needs</li>
+                <li>Administered and supported Linux environments with focus on performance and availability</li>
+                <li>Managed PostgreSQL databases including development of complex logic using PL/SQL</li>
+                <li>Executed and managed Backup and Restore routines, ensuring data integrity and business continuity</li>
+            </ul>
+        </div>
+
+        <div class="entry">
+            <div class="entry-header">
+                <span>INSTITUTO BRASIL DE PROFISSÕES</span>
+                <span>Vila Velha, Espírito Santo, Brazil</span>
+            </div>
+            <div class="entry-subheader">
+                <span>IT Instructor</span>
+                <span>Aug 2022 - Oct 2022</span>
+            </div>
+            <ul class="description">
+                <li>Assisted students with technical questions and taught specific subjects such as computer mechanisms and introduction to programming logic</li>
+                <li>Maintained direct contact with students and guardians, managed registration and information updates in internal system</li>
+            </ul>
+        </div>
+
+        <div class="entry">
+            <div class="entry-header">
+                <span>H20WEB</span>
+                <span>Brazil</span>
+            </div>
+            <div class="entry-subheader">
+                <span>FullStack Web Developer</span>
+                <span>Jul 2022 - Aug 2022</span>
+            </div>
+            <ul class="description">
+                <li>Created websites using HTML, CSS, Javascript and Wordpress, from personal portfolio sites to promotional landing pages</li>
+                <li>Projects available for viewing on GitHub: https://github.com/pablodeas</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Certifications & Training</h2>
+        <div class="entry">
+            <ul class="description">
+                <li>Database Developer Certification</li>
+                <li>Oracle Database: Projections, Selections, Joins and Views</li>
+                <li>PHP Essential Training</li>
+                <li>Oracle Database Performance: Query Optimization</li>
+                <li>People Management</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Additional</h2>
+        <div class="skills">
+            <span class="skills-label">Technical Skills:</span> Oracle, SQL Server, PostgreSQL, MySQL, Sybase, Python, Golang, PL/SQL, T-SQL, C#, Linux, AWS, Google Cloud Platform (GCP), Zabbix, Docker, Grafana, Datadog, Git, Flask, FastAPI, Mailtrap
+        </div>
+        <div class="skills">
+            <span class="skills-label">Languages:</span> Portuguese (Native), English (Professional Working)
+        </div>
+    </div>
+</body>
+</html>
